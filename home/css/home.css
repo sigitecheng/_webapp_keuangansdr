@@ -1,0 +1,93 @@
+#home {
+border-radius: 20px 20px 20px 20px;
+	background-color: #CCCCCC;
+/*	min-height: 505px; */
+	width: 1200px; 
+	margin-left: 80px;
+	margin-top: 20px;
+}
+#home #isi {
+	border-radius: 10px 10px 10px 10px;
+	background-color: #E4E4E4;
+	min-width: 1200px; 
+/*	min-height: 450px;  */
+}
+
+#home #foother {
+	border-radius: 5px 5px 10px 10px;
+	height: 50px;
+	width: 1200px;
+	background-color: #003300;
+	clear: both;
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+#home #isi #shortcut {
+	border-radius: 10px 10px 10px 10px;
+	float: left;
+	min-height: 440px;
+	width: 180px;
+	background-color: #CCCCCC;
+	margin-top: 5px;
+}
+#home #isi #shortcut #shrtct {
+	background-color: #666666;
+	border-radius: 0px 0px 10px 10px;
+	min-height: 400px;
+	width: 180px;
+	padding-bottom: 10px;
+}
+#home #header #akun {
+	border-radius: 15px 15px 15px 15px;
+	background-color: #003300;
+	width: 178px;
+	height: 50px;
+	float: left;
+}
+#home #header #hiasan {
+border-radius: 300px 50px 50px 0px;
+	background-color: #003300;
+	height: 50px;
+	width: 550px;
+	float: right;
+}
+
+#home #isi #content {
+border-radius: 10px 10px 10px 10px;
+	background-color: #FFFFFF;
+	float: left;
+	margin-top: 3px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+	min-height: 700px;
+	/* width: 1004px; */
+}
+#home #isi #shortcut #real_time {
+	border-radius: 10px 10px 0px 0px;
+	background-color: #003300;
+	height: 29px;
+	width: 180px;
+}
+
+#home #isi #menu {
+	background-color: #003300;
+	height: 30px;
+	width: 1100px;
+	margin-top: -15px;
+}
+#home #isi #content #menu {
+	border-radius: 10px 10px 10px 10px;
+	height: 30px;
+	width: 1005px;
+}
+#home #isi #content .halamandinamis {
+	border-radius: 10px 10px 10px 10px;
+	min-height: 620;
+	width: 1000px;
+	background-color: #CCCCCC;
+	margin-top: 10px;
+	padding-top: 20px;
+	padding-left: 5px;
+	padding-bottom: 70px;
+	margin-left: 0px;
+}

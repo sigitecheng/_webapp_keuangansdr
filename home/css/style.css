@@ -1,0 +1,40 @@
+
+table, th, td {
+	border-collapse:collapse;
+	border:1px solid #999;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:12px;
+}
+
+ 
+.head {
+	background: rgb(206,220,231); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(206,220,231,1) 0%, rgba(89,106,114,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(206,220,231,1)), color-stop(100%,rgba(89,106,114,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(206,220,231,1) 0%,rgba(89,106,114,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(206,220,231,1) 0%,rgba(89,106,114,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(206,220,231,1) 0%,rgba(89,106,114,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(206,220,231,1) 0%,rgba(89,106,114,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cedce7', endColorstr='#596a72',GradientType=0 ); /* IE6-9 */
+}
+ 
+.head th {
+	padding:10px;
+	color:#333;
+	text-shadow:1px 1px 0px #CCC;
+	font-size:14px;
+}
+ 
+.satu {
+	background-color:#CECECE;
+}
+ 
+.dua {
+	background-color:#E0E0E0;
+}
+ 
+.satu:hover, .dua:hover {
+	background-color:#BADFFE;
+	font-weight:bold;
+	cursor:pointer;
+}

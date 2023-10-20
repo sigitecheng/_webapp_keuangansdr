@@ -1,0 +1,76 @@
+#home #isi #content #menu li {
+	float: left;
+	margin-top: 5px;
+}
+#home #isi #content #menu .monitoring {
+	visibility: hidden;
+}
+
+#home #isi #content #menu a {
+border-radius: 5px 5px 5px 5px;
+	color: #FFFFFF;
+	text-decoration: none;
+	display: block;
+	background-color: #006666;
+    margin-right: 4px;
+	height: 30px;
+	width: 120px;
+	margin-top: -5px;
+	text-align: center;
+	line-height: 25px;
+}
+#home #header {
+border-radius: 20px 40px 40px 40px;
+	background-color: #999999;
+	height: 50px;
+	width: 1200px;
+}
+
+#home #isi #content #menu a:hover {
+	background-color: #000000;
+	line-height: 29px;
+	color: #FFFF00;
+}
+#home #isi #shortcut #shrtct li {
+	border-radius: 5px 5px 5px 5px;
+	background-color: #003333;
+	height: 30px;
+	width: 150px;
+	margin-top: 10px;
+	text-decoration: none;
+	list-style-type: none;
+	line-height: 20px;
+	color: #FFFFFF;
+	text-align: center;
+	margin-left: -25px;
+}
+#home #isi #shortcut #shrtct ul {
+	margin-top: 10px;
+	padding-top: 3px;
+}
+#home #isi #shortcut #shrtct a {
+	line-height: 30px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+#home #isi #shortcut #shrtct li:hover {
+	margin-left: -20px;
+	color: #00FF00;
+	background-color: #002800;
+}#home #isi #shortcut #shrtct a:hover{
+	color: #00FF00;
+}
+
+#tombol {
+	border-radius: 5px 5px 5px 5px;
+	background-color: #003333;
+	height: 30px;
+	width: 150px;
+	margin-top: 10px;
+	text-decoration: none;
+	list-style-type: none;
+	line-height: 20px;
+	color: #FFFFFF;
+	text-align: center;
+	margin-left: -25px;
+}
